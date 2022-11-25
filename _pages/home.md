@@ -41,4 +41,11 @@ feature_row:
 
 {% include feature_row %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+# CHU-HA
+## _C_hat _H_osting _U_tility with _H_yperlinking _A_utomation 
+
+##### A research and pedagody oriented IRC client with the ability to automatically create _in-band_ hyperlinks of topics of discussion found within message text.
+
+(C) Copyright AyeAI Consulting, 2019-2022
+
+TM CHU-HA and its unhypenated variant _CHUHA_ is claimed as a TM trademark by Abhishek Choudhary in India and other jurisdictions. All disputes are subject to the jurisdiction of courts in Hyderabad,  Telangana, INDIA only.
