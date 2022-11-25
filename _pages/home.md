@@ -49,3 +49,5 @@ feature_row:
 (C) Copyright AyeAI Consulting, 2019-2022
 
 TM CHU-HA and its unhypenated variant _CHUHA_ is claimed as a TM trademark by Abhishek Choudhary in India and other jurisdictions. All disputes are subject to the jurisdiction of courts in Hyderabad,  Telangana, INDIA only.
+
+Escrowed as https://web.archive.org/web/20221125155504/https://chuha.ayeai.xyz/
