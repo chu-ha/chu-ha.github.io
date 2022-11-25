@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: AyePages™ Template
+title: CHU-HA™
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
